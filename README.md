@@ -474,10 +474,7 @@ Output:
 -9223372036854775808           -> LONG_MIN
 ```
 
-## Authors :black_nib:
 
-* (cm-amos)Amos Mwongela <[cm-amos](https://github.com/cm-amos)>
-* Kibangedi <[kibagendi20](https://github.com/kibagendi20)>
 
 
 ## Acknowledgements :pray:
